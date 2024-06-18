@@ -1,0 +1,82 @@
+[
+  {
+    "name": "iPhone 13",
+    "price": 999,
+    "featured": true,
+    "rating": 4.8,
+    "createdAt": "2023-06-01T12:00:00Z",
+    "company": "apple"
+  },
+  {
+    "name": "Galaxy S21",
+    "price": 799,
+    "featured": false,
+    "rating": 4.6,
+    "createdAt": "2023-05-15T09:30:00Z",
+    "company": "samsung"
+  },
+  {
+    "name": "XPS 13",
+    "price": 1199,
+    "featured": true,
+    "rating": 4.7,
+    "createdAt": "2023-04-20T10:00:00Z",
+    "company": "dell"
+  },
+  {
+    "name": "Spectre x360",
+    "price": 1299,
+    "featured": true,
+    "rating": 4.9,
+    "createdAt": "2023-03-15T08:00:00Z",
+    "company": "hp"
+  },
+  {
+    "name": "OnePlus 9",
+    "price": 729,
+    "featured": false,
+    "rating": 4.5,
+    "createdAt": "2023-02-10T07:00:00Z",
+    "company": "oneplus"
+  },
+  {
+    "name": "MacBook Air",
+    "price": 999,
+    "featured": true,
+    "rating": 4.8,
+    "createdAt": "2023-01-05T12:00:00Z",
+    "company": "apple"
+  },
+  {
+    "name": "Galaxy Note 20",
+    "price": 999,
+    "featured": false,
+    "rating": 4.4,
+    "createdAt": "2022-12-01T12:00:00Z",
+    "company": "samsung"
+  },
+  {
+    "name": "Inspiron 15",
+    "price": 599,
+    "featured": true,
+    "rating": 4.2,
+    "createdAt": "2022-11-15T09:00:00Z",
+    "company": "dell"
+  },
+  {
+    "name": "Pavilion 14",
+    "price": 699,
+    "featured": false,
+    "rating": 4.3,
+    "createdAt": "2022-10-10T11:00:00Z",
+    "company": "hp"
+  },
+  {
+    "name": "Nord 2",
+    "price": 399,
+    "featured": true,
+    "rating": 4.1,
+    "createdAt": "2022-09-05T10:00:00Z",
+    "company": "oneplus"
+  }
+]
